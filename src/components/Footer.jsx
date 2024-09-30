@@ -47,12 +47,12 @@ const Footer = () => {
           />
           <button
             type="submit"
-            className="px-4 py-2 bg-yellow-500 rounded-md hover:bg-yellow-600 transition w-full sm:w-auto"
+            className="px-4 py-2 bg-brown-500 rounded-md hover:bg-brown-600 transition w-full sm:w-auto"
           >
             Subscribe
           </button>
         </form>
-        <p className="mt-4">&copy; 2024 Food Ecommerce. All Rights Reserved.</p>
+        <p className="mt-4" style={{ fontFamily: 'Pacifico, cursive' }}>&copy; 2024 Cafe Noor. All Rights Reserved.</p>
         <div className="mt-4 flex justify-center">
           <a href="#!" className="mx-2 text-gray-400 hover:text-white transition duration-300">
             Facebook

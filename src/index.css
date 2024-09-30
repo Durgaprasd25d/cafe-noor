@@ -10,3 +10,9 @@
   
 
   
+
+  @layer utilities {
+    .blur-sm {
+      backdrop-filter: blur(4px);
+    }
+  }
